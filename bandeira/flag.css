@@ -1,0 +1,109 @@
+body {
+    background-color: #F2AC83;
+}
+
+h1 {
+    text-align: center;
+    font-family: verdana;
+    font-size: 22px;
+}
+
+.japan_form {
+    position: fixed;
+    width: 250px;
+    height: 150px;
+    background-color: white;
+
+    
+}
+
+.japan_cicle {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    background-color: red;
+  top: 95px;
+  left: 95px;
+  border-radius: 50%;
+} 
+
+.germany1 {
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    top: 56px;
+    left: 292px;
+    background-color: black;
+}
+
+.germany2 {
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    top: 106px;
+    left: 292px;
+    background-color: red;
+}
+
+.germany3 {
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    top: 156px;
+    left: 292px;
+    background-color: yellow;
+}
+
+.ind1 {
+    position: absolute;
+    width: 250px;
+    height: 75px;
+    top: 56px;
+    left: 576px;
+    background-color: red;
+}
+
+.ind2 {
+    position: absolute;
+    width: 250px;
+    height: 75px;
+    top: 131px;
+    left: 576px;
+    background-color: white;
+}
+
+.can_back {
+    position: fixed;
+    width: 250px;
+    height: 150px;
+    top: 56px;
+    left: 861px;
+    background-color: white;
+   
+}
+
+.can_pt1 {
+    position: absolute;
+    width: 62.5px;
+    height: 150px;
+    top: 56px;
+    left: 1048px;
+    background-color: red;
+
+}
+
+.can_pt2 {
+    position: absolute;
+    width: 62.5px;
+    height: 150px;
+    top: 56px;
+    left: 861px;
+    background-color: red;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    margin: 72px;
+   margin-top: 20px;
+}
